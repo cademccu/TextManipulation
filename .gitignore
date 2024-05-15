@@ -10,4 +10,7 @@ __pycache__/
 *~
 # text files are inputs and likely shouldn't make it through.
 *.txt
-
+# html files from experimentation likely shouldnt make it through.
+*.html
+*.HTML
+CLEANUP.sh

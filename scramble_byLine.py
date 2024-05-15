@@ -2,7 +2,7 @@ import sys
 import random
 if len(sys.argv) < 2:
     print("""
-[USAGE]  python3 scramble.py <INPUT_FILE> <OUTPUT_FILE>
+[USAGE]  python3 scramble_byLine.py <INPUT_FILE> <OUTPUT_FILE>
     INPUT_FILE  :   A text file. All individual 'lines' must be period '.' delimited.
     OUTPUT_FILE :   Optional. Name of output file. Defaults to stdout.
 """)
